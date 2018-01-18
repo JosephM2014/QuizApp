@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="pirates">Pirates</string>
+    <string name="ninjas">Ninjas</string>
+</resources>
