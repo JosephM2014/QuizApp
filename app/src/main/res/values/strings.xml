@@ -4,4 +4,9 @@
     <string name="title_activity_result">Results!!!</string>
     <string name="pirates">Pirates</string>
     <string name="ninjas">Ninjas</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="favourite_colors">Favourite Color(s)?</string>
 </resources>
